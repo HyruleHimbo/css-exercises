@@ -1,0 +1,19 @@
+/*there are two ways I can add default rules for both classes
+    - use grouping selector 
+        this way is implied to be the way the course wants me to use
+    - use universal selector
+        I would probably do this irl, depending on what I was creating */
+
+* {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+}
