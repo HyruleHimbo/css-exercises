@@ -1,0 +1,21 @@
+/*style sheet for ex02*/
+
+.odd-elm {
+background-color: ffb6c1;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#2 {
+color: blue;
+font-size: 36px;
+}
+
+.odd-elm.class3 {
+font-size: 24px;
+}
+
+#4 {
+background-color: lightgreen;
+font-weight: bold;
+font-size: 36px;
+}
