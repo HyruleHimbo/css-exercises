@@ -1,0 +1,14 @@
+/* type then class */
+div .text {
+    background-color: palegoldenrod;
+    color: darkred;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* alternative descendant selector options::after
+
+div p {}
+.container p {}
+.container .text {} 
+*/
